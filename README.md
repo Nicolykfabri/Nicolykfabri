@@ -1,16 +1,13 @@
-## Hi there 👋
+### *Boas vindas ao meu perfil* 🤍
 
-<!--
-**Nicolykfabri/Nicolykfabri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Nicoly! ♀️
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvolvendo em Linguagem JavaScript
+- Utilizo esse espaço para organizar e compartilhar meus projetos ‼️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Vocẽ pode entrar em contato comigo pelo Insta 📫
+@nk.fabri
+
+
+![](https://media1.tenor.com/m/oWf64o5vKRUAAAAd/disney-aristocats.gif)
