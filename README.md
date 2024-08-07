@@ -7,6 +7,7 @@ Meu nome é Nicoly! ♀️
 - Utilizo esse espaço para organizar e compartilhar meus projetos ‼️
 
 Vocẽ pode entrar em contato comigo pelo Instagram ou pelo Whatsapp 📫
+
 @nk.fabri
 55+ 42 9921-4390
 
